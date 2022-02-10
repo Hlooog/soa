@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acf883d4-a23d-41ce-9ca2-3ec53fd81f0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="thrift" />
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Repository\Maven" />
+        <option name="userSettingsFile" value="F:\Program Files\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="218GAa0F2nrlmwFVQHnYIlFyrug" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1484375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hl.soa" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hl.soa.framework.factory" />
+      <recent name="com.hl.serializer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\soa\src\main\proto" />
+      <recent name="E:\code\soa\src\main\avro" />
+      <recent name="E:\code\soa\src\main\java\com\hl\soa\entity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean:clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SerializerTest.test">
+    <configuration name="ClusterStrategyEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hl.soa.framework.cluster.ClusterStrategyEnum" />
+      <module name="soa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hl.soa.framework.cluster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvokerService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hl.soa.framework.invoker.InvokerService" />
+      <module name="soa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hl.soa.framework.invoker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hl.soa.framework.Main" />
+      <module name="soa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hl.soa.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hl.soa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hl.soa" />
+      <option name="MAIN_CLASS_NAME" value="com.hl.soa.SerializerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializerTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hl.soa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hl.soa" />
+      <option name="MAIN_CLASS_NAME" value="com.hl.soa.SerializerTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SerializerTest.test" />
+        <item itemvalue="JUnit.SerializerTest" />
+        <item itemvalue="Application.InvokerService" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClusterStrategyEnum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acf883d4-a23d-41ce-9ca2-3ec53fd81f0c" name="Default Changelist" comment="" />
+      <created>1637315157875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637315157875</updated>
+      <workItem from="1637315160484" duration="5587000" />
+      <workItem from="1637380847078" duration="4444000" />
+      <workItem from="1637401098065" duration="4011000" />
+      <workItem from="1637405191697" duration="357000" />
+      <workItem from="1637405579298" duration="964000" />
+      <workItem from="1637406592898" duration="2465000" />
+      <workItem from="1637484731553" duration="197000" />
+      <workItem from="1637484962588" duration="26284000" />
+      <workItem from="1637833792286" duration="30783000" />
+      <workItem from="1639053805911" duration="2983000" />
+      <workItem from="1640928112045" duration="668000" />
+      <workItem from="1642918173815" duration="4213000" />
+      <workItem from="1643458352978" duration="450000" />
+      <workItem from="1643462932187" duration="3198000" />
+      <workItem from="1643549954364" duration="5400000" />
+      <workItem from="1643941135984" duration="8107000" />
+      <workItem from="1644051202268" duration="4233000" />
+      <workItem from="1644063966413" duration="5362000" />
+      <workItem from="1644112338582" duration="5268000" />
+      <workItem from="1644480419047" duration="5416000" />
+      <workItem from="1644491566989" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="0" key="#Auto_Import" timestamp="1638595757638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="0" key="#Auto_Import/0.0.1366.728@0.0.1366.728" timestamp="1638595757638" />
+    <state x="433" y="73" key="#HTTP_Proxy" timestamp="1637383819253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="73" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1637383819253" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1644115689247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1644115689247" />
+    <state x="389" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637484499945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1637484499945" />
+    <state x="317" y="51" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1637405283361">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="51" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1637405283361" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1644114566731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1644114566731" />
+    <state x="397" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1637833252135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1637833252135" />
+    <state x="459" y="231" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1637404389330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="231" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1637404389330" />
+    <state x="462" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1637380726803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1637380726803" />
+    <state x="81" y="0" width="1205" height="728" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1643554456691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="81" y="0" width="1205" height="728" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1643554456691" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1644064938470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1644064938470" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1637402584573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1637402584573" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1642919908647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1642919908647" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1644486224510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1644486224510" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1644486224510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1644486224510" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1644486224510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1644486224510" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1644486224510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1644486224510" />
+    <state width="1323" height="330" key="GridCell.Tab.1.bottom" timestamp="1644055490261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1644055490261" />
+    <state width="1323" height="330" key="GridCell.Tab.1.center" timestamp="1644055490261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1644055490261" />
+    <state width="1323" height="330" key="GridCell.Tab.1.left" timestamp="1644055490261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1644055490261" />
+    <state width="1323" height="330" key="GridCell.Tab.1.right" timestamp="1644055490261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="330" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1644055490261" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1637404828099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1637404828099" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1638799853512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1638799853512" />
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1637487578047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="289" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1637487578047" />
+    <state x="442" y="191" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1643951284798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="191" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1643951284798" />
+    <state x="549" y="230" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1637487642643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="230" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1637487642643" />
+    <state x="57" y="24" key="new project wizard" timestamp="1644051247654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1644051247654" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1644485991894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1644485991894" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1644484639837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1644484639837" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hl/soa/framework/factory/SpringFactory.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hl/soa/framework/serialization/NettyDecoderHandler.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
